@@ -1,1 +1,1 @@
-# my covid dashboard on Tableau Public
+# covid dashboard on Tableau Public
